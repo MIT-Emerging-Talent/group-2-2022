@@ -1,5 +1,7 @@
 # (project title)
 
+COMMITTING DIRECTLY WITHOUT PULL REQUEST
+
 <!-- intro + motivation -->
 
 ## Overview
