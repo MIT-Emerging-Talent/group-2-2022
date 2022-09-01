@@ -1,5 +1,7 @@
 # Communication
 
+THIS IS A PULL REQUEST TO CHANGE OUR COMMUNICATION
+
 <!-- this file is just a template, modify it as much as you need -->
 
 ## Group Rules
