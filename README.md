@@ -1,4 +1,4 @@
-# (project title) Sustainable Development Goals
+# (project title) 
 
 COMMITTING DIRECTLY WITHOUT PULL REQUEST
 
@@ -12,7 +12,7 @@ COMMITTING DIRECTLY WITHOUT PULL REQUEST
   - call(s) to action
 -->
 
-## Domain & Data // Quality Education
+## Domain & Data // 
 
 <!--
   - define domain of your project 
