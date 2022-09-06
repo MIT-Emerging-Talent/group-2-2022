@@ -1,6 +1,6 @@
 # (project title) 
 
-COMMITTING DIRECTLY WITHOUT PULL REQUEST
+Track and understand how Global Development Goal of inclusive and quality education for all was tackled in selected countries
 
 <!-- intro + motivation -->
 
