@@ -1,5 +1,5 @@
-Sustainable Development Goals/Quality Education
-SUSTAINABLE DEVELOPMENT GOLAS - QUALITY EDUCATION
+
+SUSTAINABLE DEVELOPMENT GOAL - QUALITY EDUCATION
 
 
 Track and understand how Global Development Goal of inclusive and quality education for all was tackled in selected countries
