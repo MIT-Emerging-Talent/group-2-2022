@@ -2,7 +2,7 @@
 SUSTAINABLE DEVELOPMENT GOAL - QUALITY EDUCATION
 
 
-Track and understand how Global Development Goal of inclusive and quality education for all was tackled in selected countries
+Track and the most recent metrics to understand how countries were changing towrds Global Development Goal of inclusive and quality education for all 
 
 <!-- intro + motivation -->
 
