@@ -14,6 +14,11 @@ There are a few spreadsheets for 2021 year
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880958/ :
 Understanding factors associated with attending secondary school in Tanzania using household survey data
 
+https://www.kaggle.com/datasets/undp/human-development
+Human Development report 2015
+
+
+
 
 
 
