@@ -8,14 +8,16 @@ Our Domain SDG - 4 Ensure inclusive and quality education
     - Age Groups/Demographics?
     - Our Constraints?
     
-    
+  
+  
+ THE FOLLOWING FROM EVAN: 
   - What question(s) are you investigating? - Gender inequality in specified areas? 
   - To whom will you be communicating the results? - Local education agencies?
   - What action(s) can you ask them to take?  - Improve gender equality with help of:......   
     
 
 
-THE FOLLOWING FROM EVAN:
+
 outline your project's big idea so everyone agrees:
 
 
