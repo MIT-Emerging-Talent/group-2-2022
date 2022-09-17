@@ -3,7 +3,7 @@
 Links from DK
 
 https://sdg-tracker.org/quality-education
-The most general link with recourced for SDG-4
+The most general link with recources for SDG-4
 
 
 https://data.unicef.org/topic/gender/gender-disparities-in-education/
