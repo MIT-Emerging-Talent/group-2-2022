@@ -2,6 +2,8 @@
 
 <!-- this file is just a template, modify it as much as you need -->
 
+WE WILL LIST OUR CONSTRAINTS
+
 Some boundaries around our project.
 This is a change
 
