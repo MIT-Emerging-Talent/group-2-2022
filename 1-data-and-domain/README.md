@@ -31,6 +31,8 @@ https://www.ubos.org/wp-content/uploads/publications/04_2018Education_Sector_Gen
 
 https://stats.oecd.org/Index.aspx?DataSetCode=U_SIGI: Dataset
 
+https://www.education-inequalities.org/indicators/eduout_prim/uganda/sexes#ageGroup=%22eduout_prim%22&year=%222016%22&dimension1=%7B%22id%22%3A%22sex%22%2C%22filters%22%3A%5B%22Female%22%2C%22Male%22%5D%7D  Datast
+
 <!--
 
   an empty folder for your team to prepare the first phase of the project
