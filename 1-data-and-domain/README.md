@@ -22,9 +22,10 @@ Dataset hub to find reliable data
 
 LINkS FROM CATHY
 
-https://planipolis.iiep.unesco.org/sites/default/files/ressources/uganda_gender_in_education_sector_policy.pdf 
+https://planipolis.iiep.unesco.org/sites/default/files/ressources/uganda_gender_in_education_sector_policy.pdf:
 Report on gender in education sector in Uganda
 
+https://iussp.org/sites/default/files/event_call_for_papers/Gideon_Juliana%20IUSSP%20Paper.pdf: Inequality in school entrolment in Uganda
 
 
 <!--
