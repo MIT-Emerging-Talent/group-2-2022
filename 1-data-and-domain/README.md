@@ -27,6 +27,7 @@ Report on gender in education sector in Uganda
 
 https://iussp.org/sites/default/files/event_call_for_papers/Gideon_Juliana%20IUSSP%20Paper.pdf: Inequality in school entrolment in Uganda
 
+https://www.ubos.org/wp-content/uploads/publications/04_2018Education_Sector_Gender_Statistics_Profile.pdf: Eduation sector gender statistic profile.
 
 <!--
 
