@@ -1,5 +1,12 @@
 # Domain & Data
 
+LINKD UPD OCT 22
+
+https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=48&c=Zimbabwe&r=1
+
+https://www.education-inequalities.org/indicators/eduout_prim/uganda/sexes#ageGroup=%22eduout_prim%22&year=%222016%22&dimension1=%7B%22id%22%3A%22sex%22%2C%22filters%22%3A%5B%22Female%22%2C%22Male%22%5D%7D 
+
+
 Links From Ali
 
 https://reliefweb.int/report/afghanistan/educo-warns-afghan-girls-do-not-have-access-secondary-education-and-will-impact-their-future-and-future-country?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmNw4qF6S9xdXHVWhLF0ETNDArEI9UZMPTCuzbEfbydxpR1A2ietfmIaArp-EALw_wcB
