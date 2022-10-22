@@ -17,7 +17,7 @@ https://www.tandfonline.com/doi/abs/10.1080/14681366.2021.1914148   Note: For in
 https://www.afghanaid.org.uk/sdg-5-in-afghanistan-gender-equality?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmMuBG1z1xaH3i0b97FnZdpkNhPLY7fziF1jrzKgy7qePbXMazHJv3kaAv8EEALw_wcB
 
  Video Source
- https://www.youtube.com/watch?v=oraWELsXGew
+ https://www.youtube.com/watch?v=oraWELsXGew   Warning: video contains some blooding part. Please don't watch until, I fully not explain about it in our meeting. 
 
 
 Links from DK
