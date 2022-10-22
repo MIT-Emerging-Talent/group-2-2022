@@ -2,14 +2,18 @@
 
 Links From Ali
 
-Latest sources
-
 https://reliefweb.int/report/afghanistan/educo-warns-afghan-girls-do-not-have-access-secondary-education-and-will-impact-their-future-and-future-country?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmNw4qF6S9xdXHVWhLF0ETNDArEI9UZMPTCuzbEfbydxpR1A2ietfmIaArp-EALw_wcB
+
 https://www.globalcitizen.org/en/content/afghanistan-girls-education-taliban-what-happens/?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmNbXGNj4JkxlX5V5kR9WfrOSYy3jT3vr-wp4djb3RJVFQuiYMIZq_IaAp17EALw_wcB
+
 https://smallwarsjournal.com/jrnl/art/analyzing-girls-access-education-afghanistan-tale-gender-disparity
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3084799
+
 https://www.sciencedirect.com/science/article/abs/pii/0305750X94900582
+
 https://www.tandfonline.com/doi/abs/10.1080/14681366.2021.1914148   Note: For instance the textbooks
+
 https://www.afghanaid.org.uk/sdg-5-in-afghanistan-gender-equality?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmMuBG1z1xaH3i0b97FnZdpkNhPLY7fziF1jrzKgy7qePbXMazHJv3kaAv8EEALw_wcB
 
  Video Source
