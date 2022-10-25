@@ -3,10 +3,9 @@
 Our Domain SDG - 4 Ensure inclusive and quality education
 
 - Overview of the project. Put concrete frame for the project: concrete frames & data source
-    - Gender inequality?
-    - Geo Locations? Sub-Saharan?
-    - Age Groups/Demographics?
-    - Our Constraints?
+Track/demonstrate past history and make a call for action for future improvement of Gender equality in Education in selected countries with the help of the data
+
+See https://github.com/MIT-ReACT/group-2-2022/tree/main/1-data-and-domain for more details and data sources)
     
   
 - Data Search engines:
