@@ -8,6 +8,9 @@ https://www.education-inequalities.org/indicators/eduout_prim/uganda/sexes#ageGr
 
 
 Links From Ali
+Updated one:
+https://unesdoc.unesco.org/ark:/48223/pf0000215522  - **This is a link of World atlas of gender equality in education/ A Book**
+
 
 https://reliefweb.int/report/afghanistan/educo-warns-afghan-girls-do-not-have-access-secondary-education-and-will-impact-their-future-and-future-country?gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmNw4qF6S9xdXHVWhLF0ETNDArEI9UZMPTCuzbEfbydxpR1A2ietfmIaArp-EALw_wcB
 
