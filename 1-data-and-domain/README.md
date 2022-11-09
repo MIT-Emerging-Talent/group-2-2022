@@ -6,6 +6,10 @@ https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=48&c=Zimbabwe&r=1
 
 https://www.education-inequalities.org/indicators/eduout_prim/uganda/sexes#ageGroup=%22eduout_prim%22&year=%222016%22&dimension1=%7B%22id%22%3A%22sex%22%2C%22filters%22%3A%5B%22Female%22%2C%22Male%22%5D%7D 
 
+https://www.statista.com/statistics/1223543/urbanization-rate-in-africa-by-country/
+
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+
 
 Links From Ali
 Updated one:
