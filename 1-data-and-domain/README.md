@@ -1,4 +1,6 @@
 # Domain & Data
+12 November 2022
+https://docs.google.com/spreadsheets/d/1cL5dfZ5ROZsNq61fz65ar-hD6jCdcn3mieELWtwqw4s/edit#gid=641413257
 
 LINKD UPD OCT 22
 
